@@ -33,7 +33,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
 		margin:auto;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_ligada.png) no-repeat left top;
 }
 
 div.rele1_desligado {
@@ -43,7 +43,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_desligada.png) no-repeat left top;
 }
 
 div.rele2_ligado {
@@ -53,7 +53,7 @@ div.rele2_ligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_ligada.png) no-repeat left top;
 }
 
 div.rele2_desligado {
@@ -63,7 +63,7 @@ div.rele2_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_desligada.png) no-repeat left top;
 }
 
 div.rele3_ligado {
@@ -73,7 +73,7 @@ div.rele3_ligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_ligada.png) no-repeat left top;
 }
 
 div.rele3_desligado {
@@ -83,7 +83,7 @@ div.rele3_desligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(lampada_desligada.png) no-repeat left top;
+    background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_desligada.png) no-repeat left top;
 }
 
 div.rele4_ligado {
@@ -93,7 +93,7 @@ div.rele4_ligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_ligada.png) no-repeat left top;
 }
 
 div.rele4_desligado {
@@ -103,7 +103,7 @@ div.rele4_desligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(lampada_desligada.png) no-repeat left top;
+    background: url(https://cdn.jsdelivr.net/gh/jorgealexandersantana/automacao/images/lampada_desligada.png) no-repeat left top;
 }
 
 #div1 {
